@@ -1,0 +1,34 @@
+body {
+  font-family: sans-serif;
+}
+
+/****
+Header
+****/
+header {
+  padding: 0 100px;
+  background-color: #6e09e2;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+img.dricaLogo {
+  width: 100px;
+  border-radius: 100%;
+  margin: 1px;
+}
+
+/****
+Main
+****/
+
+main {
+  padding: 1em;
+}
+.desafios {
+  border: 1px solid #cccccc;
+  margin: 1em;
+  padding: 0.5em;
+  border-radius: 5px;
+}

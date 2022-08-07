@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Desafio de Typescript Adriana Cerdeira</title>
+  </head>
+  <body>
+    <header>
+      <div class="logo">
+        <a href="http://adrianacerdeira.info" target="_blank">
+          <img
+            src="src/images/avatarAdrianalogo.png"
+            alt="Avatar da Adriana"
+            class="dricaLogo"
+        /></a>
+      </div>
+    </header>
+    <main>
+      <script src="src/desafios/desafio4.ts"></script>
+      <h1>Desafios propostos de Typescript.</h1>
+      <div style="display: flex;">
+        <div
+          style="
+            display: flex;
+            width: 300px;
+            height: 100px;
+            justify-content: space-between;
+            flex-direction: column;
+          "
+        >
+          <input id="login" placeholder="Login" />
+          <input id="senha" placeholder="Senha" type="password" />
+          <input id="api-key" placeholder="Api Key" />
+          <button id="login-button" disabled>Login</button>
+        </div>
+        <div id="search-container" style="margin-left: 20px;">
+          <input id="search" placeholder="Escreva..." />
+          <button id="search-button">Pesquisar Filme</button>
+        </div>
+      </div>
+    </main>
+
+    <script src="src/index.ts"></script>
+  </body>
+</html>
