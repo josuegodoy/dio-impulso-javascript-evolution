@@ -1,0 +1,68 @@
+@import url("https://fonts.googleapis.com/css2?family=Libre+Bodoni:ital@1&family=Work+Sans:ital,wght@0,300;0,400;0,600;1,300;1,400;1,600&display=swap");
+
+/****
+Geral
+****/
+html,
+.body{
+    background-color: #6e09e2;
+}
+/****
+Header
+****/
+.cabecalho{
+    font-family: "Libre Bodoni", serif;
+    color: #ffffff;
+    padding: 1em;
+    width:100%;
+}
+img.avatar{
+    width: 150px;
+    margin:0.5em;
+}
+.cabecalho a,
+.MuiButton-label
+{
+    color: #ffffff;
+    text-decoration: none;
+}
+.cabecalho a:hover,
+.MuiButton-label:hover
+{
+    color: #d9009d;
+    background-color: #6e09e2;
+}
+.MuiButton-label
+{
+    font-size: 1.5em;
+
+}
+/****
+Home
+****/
+button.MuiButtonBase-root.MuiButton-root.MuiButton-contained{
+    background-color: #d9009d;
+    color: #ffffff;
+}
+button.MuiButtonBase-root.MuiButton-root.MuiButton-contained:hover{
+    background-color: #6e09e2;
+    color: #ffffff;
+
+}
+div.MuiPaper-root.makeStyles-paper-3.MuiPaper-elevation1.MuiPaper-rounded{
+    background-color: #ffffff;
+}
+div#root{
+    background-color: #6e09e2;
+}
+/****
+Form de contato
+****/
+
+#name-label,
+#name,
+#message-label,
+#message
+{
+    color:#ffffff;
+}

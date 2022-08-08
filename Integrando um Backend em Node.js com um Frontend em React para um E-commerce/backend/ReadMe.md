@@ -1,0 +1,1 @@
+Me aventurando no mundo do Node baixei a API backend API da Nathaly Souza para poder acompanhar o desenvolvimento do front-end. 

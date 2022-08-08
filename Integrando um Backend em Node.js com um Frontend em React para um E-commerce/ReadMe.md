@@ -1,0 +1,1 @@
+Seguindo o tutorial da Nathalie Souza. Como instruido clonei os repositórios do GitHub e segui a partir do código base fazendo algumas poucas alterações.
