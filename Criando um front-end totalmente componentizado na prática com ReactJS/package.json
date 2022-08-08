@@ -7,9 +7,8 @@
 		"react",
 		"starter",
 		"TQI",
-		"Adriana Cerdeira",
-		"Bootcamp DIO",
-		"Computer Buddy BR"
+		"Josue Godoy",
+		"Bootcamp Javascript DIO"
 	],
 	"main": "src/index.js",
 	"dependencies": {

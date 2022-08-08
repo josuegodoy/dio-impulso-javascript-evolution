@@ -66,7 +66,7 @@ let pessoa4: Humano = {
 };
 
 let pessoa5: Humano = {
-  nome: "Adriana",
+  nome: "Josué",
   idade: 44,
   profissao: Trabalho.Desenvolvedora
 };
