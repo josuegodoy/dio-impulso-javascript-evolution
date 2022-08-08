@@ -1,1 +1,3 @@
-Está é a resolução mostrada pelo professor da DIO com algumas pequenas alterações, de design, para adaptar para as cores da minha marca que sempre uso.
+# Aprendendo ReactJS
+
+Desafios propostos no módulo de Introdução Prática ao React do bootcamp Impulso Javascript Evolution. Conteúdos ministrados pela Digital Innovation One https://dio.me
